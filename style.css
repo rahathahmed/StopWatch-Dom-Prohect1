@@ -1,0 +1,40 @@
+body{
+    background-color: #121212;
+}
+.main{
+    margin-top: 100px;
+}
+h1{
+    font-family: 'Orbitron', sans-serif;
+    color: #fdfdfd;
+    letter-spacing: 3px;
+}
+p{
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+
+.clock_body span{
+    /* font-family: 'Orbitron', sans-serif; */
+    font-size: 80px;
+    color: #fff;
+    padding: 15px;
+}
+
+.control{
+    margin: 25px 0;
+}
+.control button{
+    padding: 5px 20px;
+    background-color: #1e1e1e7e;
+    border-radius: 5px;
+    border-color: transparent;
+    font-size: 2rem;
+    color: #fff;
+    margin-left: 10px;
+}
+.control button:hover{
+    background-color: #1E1E1E;   
+}
